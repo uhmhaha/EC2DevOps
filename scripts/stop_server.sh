@@ -1,5 +1,7 @@
 #!/bin/bash
-pm2 stop index.js
+#pm2 stop index.js
+
+pm2 stop FirstNodeApp
 
 # isExistApp=`sudo pgrep pm2`
 # if [[ -n  $isExistApp ]]; then
