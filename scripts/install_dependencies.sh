@@ -1,7 +1,8 @@
 #!/bin/bash
-#cd ~/FirstNodeApp
-#npm install
+cd /home/ubuntu/FirstNodeApp
+sudo npm install
 sudo apt update -y
+
 # get node into yum
 # curl --silent --location https://rpm.nodesource.com/setup_6.x | bash -
 # install node and npm in one line
