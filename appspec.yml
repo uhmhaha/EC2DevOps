@@ -4,11 +4,6 @@ files:
   - source: /
     destination: /home/ubuntu/FirstNodeApp
 
-permissions:
-- object: /
-   owner: ubuntu
-   group: ubuntu
-
 hooks:
   BeforeInstall:
     - location: scripts/install_dependencies.sh
