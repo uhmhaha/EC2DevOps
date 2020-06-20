@@ -3,4 +3,4 @@
 # crontab -l | { cat; echo "@reboot pm2 start /var/www/index.js -i 0 --name \"node-app\""; } | crontab -
 
 # sudo pm2 start /var/www/index.js -i 0 --name "node-app"
-sudo pm2 start /var/www/index.js -i 0
+sudo pm2 start /home/ubuntu/FirstNodeApp/index.js -i 0
