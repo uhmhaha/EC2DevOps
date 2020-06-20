@@ -1,4 +1,5 @@
 #!/bin/bash
+cd ~/FirstNodeApp
 npm install
 apt update -y
 # get node into yum
