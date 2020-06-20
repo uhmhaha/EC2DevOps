@@ -1,7 +1,4 @@
 #!/bin/bash
-cd /home/ubuntu/FirstNodeApp
-sudo rm -rf node_modules
-sudo npm install
 sudo apt update -y
 
 # get node into yum
