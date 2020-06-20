@@ -1,6 +1,6 @@
 #!/bin/bash
-sudo npm install
-sudo apt update -y
+npm install
+apt update -y
 # get node into yum
 # curl --silent --location https://rpm.nodesource.com/setup_6.x | bash -
 # install node and npm in one line
