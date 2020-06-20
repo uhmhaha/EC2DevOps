@@ -6,7 +6,6 @@ files:
 
 permissions:
 - object: /
-   pattern: "**"
    owner: ubuntu
    group: ubuntu
 
