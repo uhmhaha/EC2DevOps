@@ -8,4 +8,4 @@ sudo npm install
 
 # pm2 stop /home/ubuntu/FirstNodeApp/index.js
 
-pm2 start index.js -i 0 --name "FirstNodeApp"
+pm2 start index.js -i 0
