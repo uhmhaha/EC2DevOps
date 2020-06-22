@@ -1,8 +1,5 @@
 #!/bin/bash
-#pm2 stop index.js
-
 # pm2 stop index.js
-
 # isExistApp=`sudo pgrep pm2`
 # if [[ -n  $isExistApp ]]; then
     # sudo pm2 kill
